@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: fadydevops/game-temp:latest
+          tags: madinatad/myapp:v1
